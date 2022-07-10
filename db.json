@@ -13,7 +13,7 @@
     {
       "id": 1,
       "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/2ffc31bb-132c-4c99-b894-53f7107a1441.jpg",
-      "name": "Сырная",
+      "name": "Сырная 🌱",
       "types": [0],
       "sizes": [25, 35],
       "price": [3.30, 5.28, 6.93],
@@ -73,7 +73,7 @@
     {
       "id": 7,
       "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d48003cd-902c-420d-9f28-92d9dc5f73b4.jpg",
-      "name": "Маргарита",
+      "name": "Маргарита 🌱",
       "types": [0, 1],
       "sizes": [25, 30, 35],
       "price": [3.80, 5.28, 7.10],
@@ -93,7 +93,7 @@
     {
       "id": 9,
       "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/30367198-f3bd-44ed-9314-6f717960da07.jpg",
-      "name": "Овощи и грибы",
+      "name": "Овощи и грибы 🌱",
       "types": [0, 1],
       "sizes": [25, 30, 35],
       "price": [3.96, 6.11, 7.59],
